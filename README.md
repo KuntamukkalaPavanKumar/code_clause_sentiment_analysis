@@ -43,7 +43,7 @@ In this case, tweets about ChatGPT been analysed for gaining insight in to the p
         - 'Bad' tweets contained words such as 'stackoverflow', 'google', 'search', 'time', 'future', 'midjourney', 'chatbot' etc.,
         - 'Neutral' tweets contained words such as 'tech', 'idea', 'find job', 'google', 'content', 'read', 'work' etc.,
     - Subjectivity vs Polarity:
-[1subjectivitypolarity](https://github.com/KuntamukkalaPavanKumar/code_clause_sentiment_analysis/blob/main/subjectivityvspolarity.png)
+![subjectivitypolarity](https://github.com/KuntamukkalaPavanKumar/code_clause_sentiment_analysis/blob/main/subjectivityvspolarity.png)
         - Subjectivity > 0.5 indicates the text contains more personal opinions and feelings.
         - Subjectivity <0.1 indicates the text contains objective words and little to no personal opinions.
         - Positive Polarity score indicates 'positive sentiment'
